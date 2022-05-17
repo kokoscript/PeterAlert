@@ -10,4 +10,4 @@ Made using VB6, tested working on Win2K and Win10
 Made using Codewarrior 6.0, tested on MacOS 9.2
 
 ## X11
-Requires a few X11 dev libraries. Tested on macOS 11 w/ XQuartz and on Linux
+Requires a few X11 dev libraries. Tested on macOS 11 w/ XQuartz, Linux, and OpenBSD.
