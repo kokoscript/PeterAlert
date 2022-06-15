@@ -11,3 +11,6 @@ Made using Codewarrior 6.0, tested on MacOS 9.2
 
 ## X11
 Requires a few X11 dev libraries. Tested on macOS 11 w/ XQuartz, Linux, and OpenBSD.
+
+## Haiku ("BeterAlert")
+Requires the basic development tools; such as make, xres, gcc, etc.
