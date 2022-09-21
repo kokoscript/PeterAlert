@@ -14,3 +14,6 @@ Requires a few X11 dev libraries. Tested on macOS 11 w/ XQuartz, Linux, and Open
 
 ## Haiku ("BeterAlert")
 Requires the basic development tools; such as make, xres, gcc, etc.
+
+## Contributions
+- **Java (Swing)**, contributed by ethanf108
