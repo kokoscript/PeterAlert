@@ -1,7 +1,7 @@
 # Peter Alert
 nyeheheheheh look lois im in the computah
 ## What
-[It's a long story.](https://twitter.com/foxgirl_IRL/status/1307092171682656259) Essentially, a weird dream of mine became reality and is now my "hello world" for GUI toolkits.
+It's a long story. Essentially, I had a weird dream wherein an alert box titled "Peter Alert" with Peter Griffin's face and a single "OK" button appeared. I decided it needed to become a reality, and it's now my "hello world" for GUI toolkits.
 
 ## Win32
 Made using VB6, tested working on Win2K and Win10
