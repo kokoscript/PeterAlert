@@ -1,12 +1,13 @@
 Type=Exe
 Form=PeterAlert.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINNT\system32\stdole2.tlb#OLE Automation
-IconForm="MainWin"
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\WINDOWS\system32\stdole2.tlb#OLE Automation
+Form=Form1.frm
+IconForm="Form1"
 Startup="MainWin"
 HelpFile=""
 Title="PeterAlert"
 ExeName32="PeterAlert.exe"
-Path32="..\..\..\Documents and Settings\Kokoro\Desktop"
+Path32="..\..\..\.."
 Command32=""
 Name="PeterAlert"
 HelpContextID="0"
