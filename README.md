@@ -17,3 +17,4 @@ Requires the basic development tools; such as make, xres, gcc, etc.
 
 ## Contributions
 - **Java (Swing)**, contributed by ethanf108
+- **MenuetOS**, contributed by ry755
